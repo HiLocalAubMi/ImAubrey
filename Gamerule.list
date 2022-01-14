@@ -5,5 +5,3 @@ DOMAIN-SUFFIX,app.adjust.com
 DOMAIN-SUFFIX,iegcom.com
 DOMAIN-SUFFIX,intlgame.com
 DOMAIN-SUFFIX,tdatamaster.com
-IP-CIDR,157.240.13.0/24
-IP-CIDR,157.240.18.0/24
