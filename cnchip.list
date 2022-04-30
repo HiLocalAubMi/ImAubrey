@@ -8,8 +8,9 @@ DOMAIN-SUFFIX,ytescm.com
 DOMAIN-SUFFIX,bytescm.com
 DOMAIN-SUFFIX,bytegoofy.com
 #toutiao
-DOMAIN-KEYWORD,bytecdn
+DOMAIN-KEYWORD,byte
 DOMAIN-KEYWORD,toutiao
+DOMAIN-SUFFIX,pstatp.com
 #weibo
 DOMAIN-KEYWORD,weibo
 DOMAIN-KEYWORD,wbapp
