@@ -144,7 +144,7 @@ dns:
 #    type: select
 #    proxies:
 #      - Shadowsocks
-rules:
-- GEOIP,CN,DIRECT
+#rules:
+#- GEOIP,CN,DIRECT
 #  - 'MATCH,DIRECT'
 
