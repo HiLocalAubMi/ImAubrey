@@ -85,7 +85,7 @@ dns:
      - tls://8.8.8.8 # 谷歌DNS TLS
      #- 8.8.4.4 # Google DNS UDP
      - tls://1.1.1.1 # Cloudflare DNS
-     - tls://dns.rubyfish.cn:853
+     #- tls://dns.rubyfish.cn:853
      - tls://1.0.0.1:853
      - tls://dns.google:853
      #- https://dns.rubyfish.cn/dns-query
